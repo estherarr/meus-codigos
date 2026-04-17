@@ -1,4 +1,4 @@
-Controle de animais e rendimento produtivo
+CONTROLE DE ANIMAIS E RENDIMENTO PRODUTIVO
 
 GRUPO ACADÊMICO IA
 
