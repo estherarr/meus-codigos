@@ -5,9 +5,13 @@ Nome do grup
 👨‍🎓 Integrantes:
 
 Esther Barreto
+
 Andrews Oliveira
+
 Carol Tozelli
+
 Lucas Ramalho Paiva
+
 Arthur Camacho
 
 👩‍🏫 Professores:
