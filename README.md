@@ -43,6 +43,8 @@ Para executar o sistema principal, basta abrir o terminal na pasta onde os arqui
 Para executar os gráficos em R, basta abrir o arquivo correspondente no R ou no RStudio e utilizar o comando de execução padrão da linguagem. O script utiliza apenas funções nativas e tem como objetivo apresentar gráficos relacionados aos dados do projeto, servindo como apoio visual para análise das informações.
 Após a execução, o sistema exibirá no terminal funcionalidades como cadastro de animais, registro de produção, consulta de dados e estimativa de rendimento produtivo. Recomenda-se manter todos os arquivos auxiliares, como `.csv` e `.json`, na mesma pasta do projeto para garantir o funcionamento correto. O projeto foi desenvolvido e testado em ambiente Windows, utilizando Python 3.14, pandas, Oracle, SQL e R.
 
+
 🗃 Histórico de lançamentos
 Informo que, na presente entrega, as datas de alterações não estão disponíveis, pois, devido a eventuais problemas com o GitHub, os quais já foram resolvidos, todo o código foi enviado de uma só vez. Trata-se de um erro que não se repetirá nas próximas entregas.
+
 O código foi adicionado em 17/04/2026.
