@@ -1,0 +1,59 @@
+RELATÓRIO DE PRODUÇÃO ANIMAL
+==================================================
+
+ID: 12
+Tipo Animal: Vaca
+Categoria: Leiteira
+Quantidade: 120
+Rendimento Total: 3600.0
+Unidade: litros/dia
+--------------------------------------------------
+ID: 14
+Tipo Animal: Boi
+Categoria: Corte
+Quantidade: 80
+Rendimento Total: 2400.0
+Unidade: kg
+--------------------------------------------------
+ID: 15
+Tipo Animal: Porco
+Categoria: Corte
+Quantidade: 60
+Rendimento Total: 3000.0
+Unidade: kg
+--------------------------------------------------
+ID: 16
+Tipo Animal: Vaca
+Categoria: Leiteira
+Quantidade: 20
+Rendimento Total: 2000.0
+Unidade: litros
+--------------------------------------------------
+ID: 17
+Tipo Animal: Galinha
+Categoria: Poedeira
+Quantidade: 30000
+Rendimento Total: 30000.0
+Unidade: ovos
+--------------------------------------------------
+ID: 21
+Tipo Animal: Vaca
+Categoria: Leiteira
+Quantidade: 40
+Rendimento Total: 400.0
+Unidade: litros
+--------------------------------------------------
+ID: 22
+Tipo Animal: Vaca
+Categoria: Leiteira
+Quantidade: 20
+Rendimento Total: 2000.0
+Unidade: litros
+--------------------------------------------------
+ID: 23
+Tipo Animal: Boi
+Categoria: Corte
+Quantidade: 30
+Rendimento Total: 300.0
+Unidade: kg
+--------------------------------------------------

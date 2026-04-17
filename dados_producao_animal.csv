@@ -1,0 +1,9 @@
+﻿id,tipo_animal,categoria,quantidade,rendimento_total,unidade
+12,Vaca,Leiteira,120,3600.0,litros/dia
+14,Boi,Corte,80,2400.0,kg
+15,Porco,Corte,60,3000.0,kg
+16,Vaca,Leiteira,20,2000.0,litros
+17,Galinha,Poedeira,30000,30000.0,ovos
+21,Vaca,Leiteira,40,400.0,litros
+22,Vaca,Leiteira,20,2000.0,litros
+23,Boi,Corte,30,300.0,kg

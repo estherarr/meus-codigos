@@ -1,0 +1,66 @@
+[
+    {
+        "id": 12,
+        "tipo_animal": "Vaca",
+        "categoria": "Leiteira",
+        "quantidade": 120,
+        "rendimento_total": 3600.0,
+        "unidade": "litros/dia"
+    },
+    {
+        "id": 14,
+        "tipo_animal": "Boi",
+        "categoria": "Corte",
+        "quantidade": 80,
+        "rendimento_total": 2400.0,
+        "unidade": "kg"
+    },
+    {
+        "id": 15,
+        "tipo_animal": "Porco",
+        "categoria": "Corte",
+        "quantidade": 60,
+        "rendimento_total": 3000.0,
+        "unidade": "kg"
+    },
+    {
+        "id": 16,
+        "tipo_animal": "Vaca",
+        "categoria": "Leiteira",
+        "quantidade": 20,
+        "rendimento_total": 2000.0,
+        "unidade": "litros"
+    },
+    {
+        "id": 17,
+        "tipo_animal": "Galinha",
+        "categoria": "Poedeira",
+        "quantidade": 30000,
+        "rendimento_total": 30000.0,
+        "unidade": "ovos"
+    },
+    {
+        "id": 21,
+        "tipo_animal": "Vaca",
+        "categoria": "Leiteira",
+        "quantidade": 40,
+        "rendimento_total": 400.0,
+        "unidade": "litros"
+    },
+    {
+        "id": 22,
+        "tipo_animal": "Vaca",
+        "categoria": "Leiteira",
+        "quantidade": 20,
+        "rendimento_total": 2000.0,
+        "unidade": "litros"
+    },
+    {
+        "id": 23,
+        "tipo_animal": "Boi",
+        "categoria": "Corte",
+        "quantidade": 30,
+        "rendimento_total": 300.0,
+        "unidade": "kg"
+    }
+]
