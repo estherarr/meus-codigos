@@ -8,7 +8,7 @@ Esther Barreto
 
 Andrews Oliveira
 
-Carol Tozelli
+Maria Carolina Tozelli
 
 Lucas Ramalho Paiva
 
