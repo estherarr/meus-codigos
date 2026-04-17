@@ -32,6 +32,10 @@ A utilização do sistema contribui diretamente para uma gestão rural mais efic
 Para o desenvolvimento do projeto, foram aplicados conhecimentos de lógica de programação, estruturas condicionais, laços de repetição e manipulação de dados em ambiente de terminal. A proposta demonstra como soluções tecnológicas simples podem gerar impactos positivos no agronegócio, especialmente para pequenos e médios produtores.
 Conclui-se que o projeto Controle de Animais e Rendimento Produtivo atende à proposta Agrotech ao unir tecnologia, organização e capacidade de previsão em uma ferramenta prática e acessível. O sistema oferece suporte ao produtor rural na gestão diária da propriedade e fortalece a tomada de decisões baseada em dados e gráficos.
 
+📊  Arquivos e Integração entre Python e Oracle/SQL
+
+Todos os arquivos utilizados no desenvolvimento estão presentes neste repositório. A imagem, um print do banco de dados, demonstra a integração do Python com o Oracle/SQL. Nela, encontra-se a mesma tabela que pode ser visualizada no terminal do Python através da opção dois no menu “listar produções”. Vale ressaltar que os únicos dados com conexão ao R, JSON, TXT e Oracle são os dados “reais” do diário, enquanto as estimativas ficam restritas ao terminal do Python.
+
 Tools 
 
 Python 3.10+ (linguagem principal do sistema)
