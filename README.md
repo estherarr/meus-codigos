@@ -1,15 +1,20 @@
 Controle de animais e rendimento produtivo
 
 Nome do grup
+
 👨‍🎓 Integrantes:
+
 Esther Barreto
 Andrews Oliveira
 Carol Tozelli
 Lucas Ramalho Paiva
 Arthur Camacho
+
 👩‍🏫 Professores:
+
 Tutor(a)
 Sabrina Otoni
+
 Coordenador(a)
 André Godoi
 
