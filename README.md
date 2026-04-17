@@ -32,6 +32,22 @@ A utilização do sistema contribui diretamente para uma gestão rural mais efic
 Para o desenvolvimento do projeto, foram aplicados conhecimentos de lógica de programação, estruturas condicionais, laços de repetição e manipulação de dados em ambiente de terminal. A proposta demonstra como soluções tecnológicas simples podem gerar impactos positivos no agronegócio, especialmente para pequenos e médios produtores.
 Conclui-se que o projeto Controle de Animais e Rendimento Produtivo atende à proposta Agrotech ao unir tecnologia, organização e capacidade de previsão em uma ferramenta prática e acessível. O sistema oferece suporte ao produtor rural na gestão diária da propriedade e fortalece a tomada de decisões baseada em dados e gráficos.
 
+Tools 
+Python 3.10+ (linguagem principal do sistema)
+Visual Studio Code (editor de código recomendado)
+PyCharm (IDE alternativa para desenvolvimento)
+Oracle Database (banco de dados relacional utilizado no projeto)
+SQL (linguagem para criação e manipulação do banco de dados)
+R (utilizada exclusivamente para geração de gráficos e análise visual)
+
+Libraries 
+os
+json
+oracledb
+pandas
+
+
+
 🔧 Como executar o código
 
 Para executar o projeto **Controle de Animais e Rendimento Produtivo**, é necessário possuir instalado no computador o **Python 3.10 ou superior**, além de um editor de código ou IDE, como Visual Studio Code ou PyCharm. O sistema principal foi desenvolvido em Python e utiliza a biblioteca pandas. O projeto também utiliza o Oracle para armazenamento das informações, sendo necessária a utilização da linguagem SQL para criação e gerenciamento do banco de dados. Além disso, utiliza a linguagem R para geração de gráficos com finalidade visual.
