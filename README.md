@@ -25,11 +25,19 @@ André Godoi
 📜 Descrição
 
 O projeto Controle de Animais e Rendimento Produtivo foi desenvolvido com o objetivo de oferecer uma solução tecnológica voltada ao setor Agrotech, auxiliando produtores rurais no gerenciamento de animais e no acompanhamento da produtividade da propriedade. A proposta surgiu da necessidade de modernizar controles que muitas vezes ainda são realizados manualmente, por meio de anotações em papel ou métodos pouco eficientes, dificultando a organização e a tomada de decisões.
+
 O sistema consiste em um terminal interativo no qual o usuário pode cadastrar a quantidade de animais existentes na fazenda e registrar suas respectivas produções. Dessa forma, o produtor consegue manter um controle organizado das informações produtivas, funcionando como um diário digital da propriedade rural. O programa foi desenvolvido para ser simples e intuitivo, permitindo fácil utilização mesmo por usuários com pouca experiência em tecnologia.
+
 Entre as principais funcionalidades do projeto, destaca-se o cadastro de animais, no qual o produtor informa espécies e quantidades presentes na propriedade. Além disso, o sistema possibilita o registro da produção correspondente a cada criação, facilitando o acompanhamento do desempenho produtivo ao longo do tempo.
+
 Outro diferencial importante é a funcionalidade de estimativa de rendimento produtivo. Nela, o usuário informa uma determinada quantidade de animais e o sistema calcula uma previsão de produção com base em médias previamente definidas. Por exemplo, ao inserir “20 galinhas”, o programa informa uma estimativa da quantidade de ovos que pode ser produzida em um mês. Essa funcionalidade permite ao produtor realizar simulações antes de tomar decisões relacionadas ao aumento, redução ou reorganização da criação.
+
 A utilização do sistema contribui diretamente para uma gestão rural mais eficiente, pois oferece dados organizados e previsões produtivas que auxiliam no planejamento da propriedade. Com essas informações, o produtor pode avaliar possibilidades de investimento, identificar oportunidades de crescimento e reduzir desperdícios, tornando a administração mais estratégica.
+
+Além disso, o projeto foi incrementado com uma etapa em linguagem R, com o objetivo de adicionar uma camada visual à análise dos dados. Essa integração permite a geração de gráficos que facilitam a interpretação das informações pelo usuário, tornando a visualização mais intuitiva e auxiliando na compreensão do desempenho produtivo da propriedade.
+
 Para o desenvolvimento do projeto, foram aplicados conhecimentos de lógica de programação, estruturas condicionais, laços de repetição e manipulação de dados em ambiente de terminal. A proposta demonstra como soluções tecnológicas simples podem gerar impactos positivos no agronegócio, especialmente para pequenos e médios produtores.
+
 Conclui-se que o projeto Controle de Animais e Rendimento Produtivo atende à proposta Agrotech ao unir tecnologia, organização e capacidade de previsão em uma ferramenta prática e acessível. O sistema oferece suporte ao produtor rural na gestão diária da propriedade e fortalece a tomada de decisões baseada em dados e gráficos.
 
 📊  Arquivos e Integração entre Python e Oracle/SQL
