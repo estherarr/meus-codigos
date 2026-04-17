@@ -1,6 +1,6 @@
 Controle de animais e rendimento produtivo
 
-Nome do grupo
+Nome do grup
 👨‍🎓 Integrantes:
 Esther Barreto
 Andrews Oliveira
